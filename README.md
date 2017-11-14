@@ -21,7 +21,7 @@ Phonegap plugin to download a List of files or a single file to the Phone, check
 
 ## install
 ```
-yourAppDir$ phonegap plugin add https://github.com/fastrde/phonegap-downloader.git
+yourAppDir$ phonegap plugin add https://github.com/mjtrodri/cordova-plugin-mjt-downloader.git
 ```
 
 ## usage
